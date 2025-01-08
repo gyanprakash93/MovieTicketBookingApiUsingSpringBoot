@@ -1,0 +1,10 @@
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/Controller/MovieTicketController.java
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/Entity/MovieEntity.java
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/Entity/TicketEntity.java
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/MovieTicketBookingSpringApplication.java
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/Repository/MovieRepo.java
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/Repository/TicketRepo.java
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/Service/MovieService.java
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/Service/TicketService.java
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/exception/InvalidMovieIdException.java
+/home/gyan/Gyanp/Java/practices/movie_ticket_booking_spring/src/main/java/com/example/movie_ticket_booking_spring/exception/InvalidTicketIdException.java
